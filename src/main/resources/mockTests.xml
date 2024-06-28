@@ -1,0 +1,7 @@
+<suite name="Real Service Tests">
+  <test name="Smoke test T4">
+    <classes>
+      <class name="myServiceTests.UsersStubTests"/>
+    </classes>
+  </test>
+</suite>
